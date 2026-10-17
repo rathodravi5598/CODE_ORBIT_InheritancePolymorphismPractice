@@ -52,19 +52,6 @@ This project showcases real-world implementations of **Inheritance** (code reusa
 
 ---
 
-## 📸 Output Screenshot
-
-Below is the demonstration of the running program:
-
-![Program Output](./output.png)
-
-> **💡 Screenshot કેવી રીતે દેખાશે:**
-> 1. ટર્મિનલમાં પ્રોગ્રામ રન કરી તેનો સ્ક્રીનશોટ લો.
-> 2. ફાઇલનું નામ **`output.png`** રાખીને તમારી GitHub રિપોઝીટરીના મુખ્ય ફોલ્ડરમાં અપલોડ કરો.
-> 3. આ `README.md` સેવ થતાં જ સ્ક્રીનશોટ અહીં આપોઆપ ડિસ્પ્લે થઈ જશે.
-
----
-
 ## 🖥️ Sample Output Preview
 
 ```text
